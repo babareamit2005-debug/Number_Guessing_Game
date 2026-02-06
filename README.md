@@ -18,7 +18,7 @@ The user guesses the number and receives hints until the correct number is guess
 3. Run: java NumberGuessingGame
 
 ## Output Screenshot
-<img src="Screenshot 2026-02-06 172624.png" width="600">
+<img src="output.png" width="600">
 
 ## Author
 Amit Babare
